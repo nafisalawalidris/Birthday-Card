@@ -5,7 +5,7 @@ This project is a simple and responsive birthday card created using HTML, CSS an
 ## Features
 
 - Responsive design: The birthday card adjusts its layout and styling to fit different screen sizes, making it accessible on desktops, tablets and mobile devices.
-- Customisable message: You can easily customize the birthday message in the HTML file to suit your recipient.
+- Customisable message: You can easily customise the birthday message in the HTML file to suit your recipient.
 - Animated elements: The card includes CSS animations to add visual interest and engagement.
 
 ## Technologies Used
